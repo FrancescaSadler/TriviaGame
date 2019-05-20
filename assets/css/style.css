@@ -1,0 +1,29 @@
+h1 {
+    font-family: 'Stylish', sans-serif;
+    color: olivedrab;
+    font-size: 50px;
+    font-weight:bold;
+}
+#container {
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+    background-color: bisque;
+}
+#clickStart{
+    font-size: 30px;
+
+}
+p{
+    font-size: 30px;
+}
+#question1{
+    font-size: 35px;
+}
+
+
+ #bodyText {
+     text-align: center;
+ }
+ #disappear{
+     text-align:center;
+ }
